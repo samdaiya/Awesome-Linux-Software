@@ -172,7 +172,7 @@
 
 ### Data Backup and Recovery
 - [![Open-Source Software][OSS Icon]](https://backintime-dev.readthedocs.io/en/latest/) [Back In Time](https://github.com/bit-team/backintime/) - A simple backup tool for Linux, inspired by "flyback project".
-- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.
+- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [BorgBackup](https://borgbackup.readthedocs.io/en/stable/) - A deduplicating backup program with compression and authenticated encryption.
 - [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - A simple backup tool with built-in encryption.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity does directory backups by producing encrypted tar-format volumes and uploading them to a remote or local file server.
@@ -289,6 +289,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Powerful Python shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+- [![Open-Source Software][OSS Icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Supporting Tools
@@ -316,6 +317,7 @@
 - [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
 - [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 - ![Nonfree][Money Icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
+- [![Open-Source Software][OSS Icon]](https://github.com/CoatiSoftware/Sourcetrail) [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
 - ![Non Free][Money Icon] [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter.
@@ -407,6 +409,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
 
 ### Email
+- [![Open-Source Software][OSS Icon]](https://git.sr.ht/~sircmpwn/aerc) [aerc](https://aerc-mail.org) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
 - [![Open-Source Software][OSS Icon]](https://git.claws-mail.org/) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
 - [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/evolution/) [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality.
@@ -575,6 +578,7 @@
 
 #### Image Management
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/digikam) [Digikam](https://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
 - [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
 - [![Open-Source Software][OSS Icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][OSS Icon]](https://github.com/BestImageViewer/geeqie) [geeqie](http://www.geeqie.org/) - image viewer / photo collection browser. Successor of GQview.
@@ -720,6 +724,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
 - [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
 - [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application.
+- [![Open-Source Software][OSS Icon]](https://git.launchpad.net/synapse-project) [Synapse](https://launchpad.net/synapse-project) - Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files by making use of the Zeitgeist engine.
 
 #### Miscellaneous
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](https://anoise.tuxfamily.org/) - An ambient noise generator for Linux.
@@ -885,7 +890,7 @@
 #### Disk Utilities
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.
-- [![Open-Source Software][ISS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc, a library and suite of tools for indexing, and visualizing inspecting disk usage.
+- [![Open-Source Software][OSS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc, a library and suite of tools for indexing, and visualizing inspecting disk usage.
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [![Open-Source Software][OSS Icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](http://multibootusb.org/) - MultiBootUSB allows you to install multiple live linux on a USB disk.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Disk Partition utility for Linux.
@@ -900,6 +905,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
 
 #### System Monitoring
+- [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - Easy monitoring the battery life of your Ubuntu laptop.
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
@@ -971,12 +977,14 @@
 - [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
 - [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries.
+- [![Open-Source Software][oss icon]](https://cgit.kde.org/labplot.git) [Labplot](https://labplot.kde.org/) - LabPlot is a KDE-application for interactive graphing and analysis of scientific data.
 - [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant.
 - [![Open-Source Software][OSS Icon]](https://github.com/polychromatic/polychromatic) [Polychromatic](https://polychromatic.app/) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/z411/trackma) [trackma](https://z411.github.io/trackma/) - Open multi-site list manager for Unix-like systems.
 
 ## Command Line Utilities
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - A Command line bookmark manager.
+- [![Open-Source Software][OSS Icon]](https://github.com/Canop/broot) [broot](https://dystroy.org/broot/) - A new way to see and navigate directory trees.
 - [![Open-Source Software][OSS Icon]](https://github.com/AlDanial/cloc) [Cloc](https://github.com/AlDanial/cloc) - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](https://github.com/athityakumar/colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
 - [![Open-Source Software][OSS Icon]](https://github.com/chronitis/curseradio) [curseradio](https://github.com/chronitis/curseradio) - Command line radio player.
@@ -991,8 +999,10 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [Googler](https://github.com/jarun/googler) - A program that can Google anything right in the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](https://hisham.hm/htop/) - An interactive process viewer for Unix systems with improved features and user experience.
+- [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/hyperfine) [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+- [![Open-Source Software][OSS Icon]](https://github.com/Peltoche/lsd) [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
 - [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A terminal based program for searching, streaming and downloading music. This implementation uses YouTube as a source of content and can play and download video as well as audio.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/muttmua/mutt) [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch) - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows.
@@ -1009,6 +1019,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
 
 ## Desktop Environments
@@ -1140,5 +1151,5 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+[OSS Icon]: ./img/oss.svg
+[Money Icon]: ./img/money.svg
